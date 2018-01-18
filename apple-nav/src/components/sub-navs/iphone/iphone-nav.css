@@ -1,0 +1,86 @@
+.iPhoneNav {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: black;
+}
+
+.iPhoneX {
+	display: inline-block;
+	color: white;
+	width: 10%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.iPhone8 {
+	display: inline-block;
+	color: white;
+	width: 10%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.iPhone7 {
+	display: inline-block;
+	color: white;
+	width: 10%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.iPhone6S {
+	display: inline-block;
+	color: white;
+	width: 10%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.iPhoneSE {
+	display: inline-block;
+	color: white;
+	width: 10%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.iOS11 {
+	display: inline-block;
+	color: white;
+	width: 10%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.Accessories {
+	display: inline-block;
+	color: white;
+	width: 10%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.Compare {
+	display: inline-block;
+	color: white;
+	width: 10%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}

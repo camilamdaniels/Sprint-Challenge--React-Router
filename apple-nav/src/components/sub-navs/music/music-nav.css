@@ -1,0 +1,66 @@
+.MusicNav {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: black;
+}
+
+.AppleMusic {
+	display: inline-block;
+	color: white;
+	width: 16%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.iTunes {
+	display: inline-block;
+	color: white;
+	width: 16%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.HomePod {
+	display: inline-block;
+	color: white;
+	width: 16%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.iPodTouch {
+	display: inline-block;
+	color: white;
+	width: 16%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.MusicAccessories {
+	display: inline-block;
+	color: white;
+	width: 16%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.GiftCards {
+	display: inline-block;
+	color: white;
+	width: 16%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}

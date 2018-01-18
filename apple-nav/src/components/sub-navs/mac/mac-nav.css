@@ -1,0 +1,106 @@
+.MacNav {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: black;
+}
+
+.MacBook {
+	display: inline-block;
+	color: white;
+	width: 10%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}	
+
+.MacBookAir {
+	display: inline-block;
+	color: white;
+	width: 10%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.MacBookPro {
+	display: inline-block;
+	color: white;
+	width: 10%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.iMac {
+	display: inline-block;
+	color: white;
+	width: 10%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.iMacPro {
+	display: inline-block;
+	color: white;
+	width: 10%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.MacPro {
+	display: inline-block;
+	color: white;
+	width: 10%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.MacMini {
+	display: inline-block;
+	color: white;
+	width: 10%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.Accessories {
+	display: inline-block;
+	color: white;
+	width: 10%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.HighSierra {
+	display: inline-block;
+	color: white;
+	width: 10%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.Compare {	
+	display: inline-block;
+	color: white;
+	width: 10%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}

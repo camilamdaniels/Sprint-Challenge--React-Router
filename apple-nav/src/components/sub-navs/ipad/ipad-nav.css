@@ -1,0 +1,66 @@
+.IpadNav {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: black;
+}
+
+.iPadPro {
+	display: inline-block;
+	color: white;
+	width: 16%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.iPad {
+	display: inline-block;
+	color: white;
+	width: 16%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.iPadMini {
+	display: inline-block;
+	color: white;
+	width: 16%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.iOS11 {
+	display: inline-block;
+	color: white;
+	width: 16%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.Accessories {
+	display: inline-block;
+	color: white;
+	width: 16%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.Compare {
+	display: inline-block;
+	color: white;
+	width: 100/6%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}

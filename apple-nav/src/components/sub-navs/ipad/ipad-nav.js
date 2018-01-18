@@ -3,7 +3,7 @@ import './ipad-nav.css';
 
 export const IpadNav = () => {
 	return (
-		<div>
+		<div className="IpadNav">
 			<p className="iPadPro">iPad Pro</p>
 			<p className="iPad">iPad</p>
 			<p className="iPadMini">iPad mini 4</p>

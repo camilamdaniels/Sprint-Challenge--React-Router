@@ -3,7 +3,7 @@ import './iphone-nav.css';
 
 export const IphoneNav = () => {
 	return (
-		<div>
+		<div className="iPhoneNav">
 			<p className="iPhoneX">iPhone X</p>
 			<p className="iPhone8">iPhone 8</p>
 			<p className="iPhone7">iPhone 7</p>

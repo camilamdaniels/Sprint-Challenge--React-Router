@@ -1,0 +1,56 @@
+.TVNav {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: black;
+}
+
+.AppleTV4K {
+	display: inline-block;
+	color: white;
+	width: 20%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.AppleTV {
+	display: inline-block;
+	color: white;
+	width: 20%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.TVApp {
+	display: inline-block;
+	color: white;
+	width: 20%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.Accessories {
+	display: inline-block;
+	color: white;
+	width: 20%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.Compare {
+	display: inline-block;
+	color: white;
+	width: 20%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;	
+}

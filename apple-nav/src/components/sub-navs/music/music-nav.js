@@ -3,7 +3,7 @@ import './music-nav.css';
 
 export const MusicNav = () => {
 	return (
-		<div>
+		<div className="MusicNav">
 			<p className="AppleMusic">Apple Music</p>
 			<p className="iTunes">iTunes</p>
 			<p className="HomePod">HomePod</p>
@@ -12,4 +12,4 @@ export const MusicNav = () => {
 			<p className="GiftCards">Gift Cards</p>
 		</div>
 	)
-}
+} 

@@ -1,0 +1,91 @@
+.MainNav {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #333;
+}
+
+.HomeIcon {
+	display: inline-block;
+	width: 10%;
+}
+
+.MacIcon {
+	display: inline-block;
+	color: white;
+	width: 10%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.IpadIcon {
+	display: inline-block;
+	color: white;
+	width: 10%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.IphoneIcon {
+	display: inline-block;
+	color: white;
+	width: 10%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.WatchIcon {
+	display: inline-block;
+	color: white;
+	width: 10%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.TVIcon {
+	display: inline-block;
+	color: white;
+	width: 10%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.MusicIcon {
+	display: inline-block;
+	color: white;
+	width: 10%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.SupportIcon {
+	display: inline-block;
+	color: white;
+	width: 10%;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.SearchIcon {
+	display: inline-block;
+	width: 10%;
+}
+
+.CartIcon {
+	display: inline-block;
+	width: 10%;
+}
